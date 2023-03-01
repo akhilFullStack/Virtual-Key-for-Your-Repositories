@@ -1,6 +1,6 @@
 `                               `**Simplilearn Assessment: End of Phase 1**
 
-`                                           `OOPS Using Java Data Structures
+`                                    `OOPS Using Java Data Structures
 
 **Company Lockers Pvt. Ltd.** 
 
@@ -31,7 +31,7 @@ Option to search a user specified file from the application
 
 Navigation option to close the current execution context and return to the main context
 
-1. Option to close the application Code designed to display the welcome screen. It displays:
+3. Option to close the application Code designed to display the welcome screen. It displays:
 
 Application name and the developer details
 

@@ -1,6 +1,6 @@
 `                               `**Simplilearn Assessment: End of Phase 1**
 
-`                                    `OOPS Using Java Data Structures
+`                                   `OOPS Using Java Data Structures
 
 **Company Lockers Pvt. Ltd.** 
 
